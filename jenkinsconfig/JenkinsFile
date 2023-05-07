@@ -15,7 +15,7 @@ pipeline {
                     steps {
                         script {
                             sh """
-                                mvn -s ./jenkinsconfig/settings.xml test-compile gatling:test -Dgatling.simulationClass=performanceRunners.${RunnerName} -DuserCount=${UserCount} DdurationT01_conduitPerf
+                                mvn -s ./jenkinsconfig/settings.xml test-compile gatling:test -Dgatling.simulationClass=performanceRunners.${RunnerName} -DuserCount=${UserCount} -Dduration=${Duration} -DconstantDuration=${ConstantDuration} -DconstantUser=${ConstantUser} -DfeatureName=${FeatureName} -DtagName=${TagName}
                             """
                         }
                     }
