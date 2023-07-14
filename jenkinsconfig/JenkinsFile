@@ -7,7 +7,7 @@ pipeline {
         string(name: 'Duration', defaultValue: "10", description: '')
         string(name: 'ConstantDuration', defaultValue: "10", description: '')
         string(name: 'ConstantUser', defaultValue: "10", description: '')
-        choice(name: 'ortam', choices: ['sta', 'qa', 'uat'], description: '')
+        choice(name: 'ortam', choices: ['sta', 'qa', 'dev'], description: '')
         string(name: 'FeatureName', defaultValue: "createArticle", description: '')
     }
     stages {
