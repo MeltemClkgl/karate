@@ -21,7 +21,7 @@ Feature: Post Request
     #* def token2 = tokenResponse.response.user.token
     Given header Authorization = 'Token ' + authToken
     And path 'articles'
-    And request {"article":{"title":"test title888","description":"test","body":"karate api test","tagList":""}}
+    And request {"article":{"title":"test title13554542","description":"test","body":"karate api test","tagList":""}}
     When method POST
     And status 200
     * print response

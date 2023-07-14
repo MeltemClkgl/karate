@@ -35,6 +35,7 @@ public class ProjectRunner {
                 .karateEnv("qa")
                 .systemProperty("foo", "bar");
     }
+
     @Test
     void testParallelConduit() {
         // run command line: mvn clean test -Dtest="ProjectRunner#testParallelPetstore" "-Dkarate.options=--tags @smoke" -Dcount=10
@@ -77,7 +78,4 @@ public class ProjectRunner {
         ReportBuilder reportBuilder = new ReportBuilder(jsonPaths, config);
         reportBuilder.generateReports();
     }
-
-
 }
-

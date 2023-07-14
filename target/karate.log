@@ -9897,3 +9897,7 @@
 11:35:30.824 [main] INFO  i.gatling.charts.stats.LogFileReader - First pass done: read 531 lines
 11:35:30.837 [main] INFO  i.gatling.charts.stats.LogFileReader - Second pass
 11:35:30.886 [main] INFO  i.gatling.charts.stats.LogFileReader - Second pass: read 531 lines
+20:51:21.700 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^login scenario$
+20:51:22.568 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:51:23.830 [main] INFO  com.intuit.karate - [print] TOKEN:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiIyhlbWFpbCkiLCJ1c2VybmFtZSI6IiModXNlcm5hbWUpIn0sImlhdCI6MTY4OTI5NTg4MywiZXhwIjoxNjk0NDc5ODgzfQ.8zAG5I0BC0DvQGJtp4eauDNIuJ7e0cxZ1-UqSI1s5nE 
+20:51:24.508 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/callers/conduit/token.feature

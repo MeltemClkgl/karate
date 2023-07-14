@@ -5,6 +5,7 @@ Feature: Tests for Home Page
     And path 'articles'
     And params {limit: 10, offset:0}
     And header Content-Type = 'application/json'
+
   @smoke
   Scenario: Get All Tags
     When method GET
@@ -14,6 +15,7 @@ Feature: Tests for Home Page
     * print 'responseStatus: ', responseStatus
     * print responseHeaders
 
+  @ignore
   Scenario: Path and Query Param
      # Given url 'https://api.realworld.io/api/'
      # And path 'articles'

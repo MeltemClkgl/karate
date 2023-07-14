@@ -1,7 +1,7 @@
 package performanceRunners
 
 import com.intuit.karate.gatling.PreDef._
-import helpers.CreateTokens
+import helpers.createTokens.CreateTokens
 import io.gatling.core.Predef._
 
 import scala.concurrent.duration._

@@ -68,6 +68,7 @@
             <version>24.0.1</version>
         </dependency>
 
+
         <!-- https://mvnrepository.com/artifact/com.github.javafaker/javafaker -->
         <dependency>
             <groupId>com.github.javafaker</groupId>
@@ -114,12 +115,13 @@
                 <version>${gatling.plugin.version}</version>
                 <configuration>
                     <simulationsFolder>src/test/java</simulationsFolder>
-                    <configFolder>src/test</configFolder>
+                    <configFolder>src/test/resources</configFolder>
                     <includes>
                         <include>performanceRunners.CDArticleSimulation</include>
                     </includes>
                 </configuration>
             </plugin>
+
             <plugin>
                 <groupId>net.alchim31.maven</groupId>
                 <artifactId>scala-maven-plugin</artifactId>
@@ -147,5 +149,6 @@
 
         </plugins>
     </build>
+
 
 </project>

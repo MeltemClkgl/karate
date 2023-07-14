@@ -17,7 +17,7 @@ Feature: Post Request
   @smoke
   Scenario: post request
     And path 'articles'
-    And request {"article":{"title":"test title100","description":"test","body":"karate api test","tagList":""}}
+    And request {"article":{"title":"test title13554542","description":"test","body":"karate api test","tagList":""}}
     When method POST
     And status 200
     * print response

@@ -8,10 +8,12 @@ Feature: Post Request
   Scenario: login scenario
     And path 'users/login'
     And header Content-Type = 'application/json'
-    When request {"user":{"email":"meltemce03@gmail.com","password":"Erol1972!"}}
+    When request {"user":{"email":"tdemailtestdata@gmail.com","password":"Trendyol123!"}}
     Then method POST
     And status 200
     * def token = response.user.token
+    * print 'TOKEN: ', token
+
 
   @smoke
   Scenario: post request
@@ -20,7 +22,7 @@ Feature: Post Request
     #* def token2 = tokenResponse.response.user.token
     Given header Authorization = 'Token ' + authToken
     And path 'articles'
-    And request {"article":{"title":"test title123","description":"test","body":"karate api test","tagList":""}}
+    And request {"article":{"title":"test title132","description":"test","body":"karate api test","tagList":""}}
     When method POST
     And status 200
     * print response
