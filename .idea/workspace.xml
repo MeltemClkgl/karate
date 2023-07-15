@@ -5,57 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0713dba2-0e3d-4158-9043-577a53f82ba7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/conduit/hooks.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/conduit/signup.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/conduit/timeValidator.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/performanceFeatures/createArticleWithCSV_and_tokenFeeder.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/performanceRunners/PostDeleteSimulation.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/gatling-aka.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a98123c3872303c72c4b74ea3165f5c4a1517e4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/a/8a98123c3872303c72c4b74ea3165f5c4a1517e4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ProjectRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProjectRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/conduit/delete.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/conduit/delete.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/conduit/firstTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/conduit/firstTest.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/conduit/getRequest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/conduit/getRequest.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest2.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest2.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest3.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest3.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest4.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest4.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest5.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest5.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest6.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/conduit/postRequest6.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/performanceFeatures/createArticle.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/performanceFeatures/createArticle.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/helpers/CreateTokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/helpers/createTokens/CreateTokens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/helpers/ProjectRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/helpers/karate-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/karate-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/karate-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/performanceRunners/CDArticleSimulation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/performanceRunners/CDArticleSimulation.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/article.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/article.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/gatling-akka.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/conduit/evalKeyword.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/karate.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/karate.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ProjectRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ProjectRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/conduit/delete.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/conduit/delete.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/conduit/firstTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/conduit/firstTest.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/conduit/getRequest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/conduit/getRequest.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest2.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest2.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest3.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest3.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest4.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest4.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest5.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest5.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest6.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/conduit/postRequest6.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/performanceFeatures/createArticle.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/performanceFeatures/createArticle.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/helpers/CreateTokens.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/helpers/DataGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/helpers/DataGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/helpers/ProjectRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/helpers/karate-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/karate-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/karate-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/performanceRunners/CDArticleSimulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/performanceRunners/CDArticleSimulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/performanceRunners/CDArticleSimulation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/performanceRunners/CDArticleSimulation.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,7 +200,8 @@
       <workItem from="1683479325281" duration="2470000" />
       <workItem from="1689292995211" duration="2440000" />
       <workItem from="1689295482855" duration="1133000" />
-      <workItem from="1689350436419" duration="766000" />
+      <workItem from="1689350436419" duration="6850000" />
+      <workItem from="1689433464105" duration="21000" />
     </task>
     <servers />
   </component>

@@ -1,10 +1,6 @@
 
 e
 5src/test/java/datas/conduit/createArticleRequest.json,2\1\21d91970a6560ff1cd44ef66539bce1e496eb6a1
-J
-jenkinsconfig/settings.xml,e\d\ed7e1b435c805f0d647d5a5e0bd806b1a5a37770
-I
-jenkinsconfig/JenkinsFile,6\4\6474aece0f2d215e507600092ac4807c05d0a544
 f
 6src/test/java/datas/conduit/createArticleResponse.json,d\1\d1ab6455800f1093ad3d1a5dee5e2e40cfead166
 ]
@@ -35,8 +31,6 @@ c
 -src/test/java/features/conduit/signup.feature,e\8\e8bcf0c922e3aca67cbae769459b096e6c7fc1ac
 d
 4src/test/java/features/conduit/timeValidator.feature,3\e\3e7e1a6659c039b17874539a85322bbcc0e7b5c3
-p
-@src/test/java/features/performanceFeatures/createArticle.feature,1\9\1984e0289698ab63ac295f86f07e45f4ff8fad8d
 ‡
 Wsrc/test/java/features/performanceFeatures/createArticleWithCSV_and_tokenFeeder.feature,8\c\8cb33108339d0acf51f75fe7a39b45850f141134
 d
@@ -48,8 +42,6 @@ $src/test/java/helpers/DateUtils.java,3\5\3565924501d657204b250e23e8252fb3ef4de
 9
 	gitignore,6\f\6f819b366cb83f2e62d7b8b23b65c2e28c01306a
 N
-src/test/java/karate-config.js,9\7\9733f574bca169a537f082a8f9a81359a92ee015
-N
 src/test/java/logback-test.xml,0\b\0b0365a0d5b2558321a5da0f2bc253bb92d1c8ad
 P
  src/test/java/ProjectRunner.java,1\0\103c26b4759c42049a6b1547c2102983b038bfa9
@@ -59,3 +51,21 @@ V
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 S
 #src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+[
++src/test/java/callers/conduit/token.feature,8\a\8a98123c3872303c72c4b74ea3165f5c4a1517e4
+N
+src/test/java/karate-config.js,9\7\9733f574bca169a537f082a8f9a81359a92ee015
+F
+karate_baseproject.iml,8\e\8e89df712a16e7a32d1d01f48b348a4dab557847
+J
+jenkinsconfig/settings.xml,e\d\ed7e1b435c805f0d647d5a5e0bd806b1a5a37770
+k
+;src/test/java/performanceRunners/PostDeleteSimulation.scala,a\0\a0bb8748f533ecd6ea774cab3e932dba378646b6
+e
+5src/test/java/performanceRunners/APISimulations.scala,d\0\d0dc22965097508148093cd0a13ac51aea2fafc1
+j
+:src/test/java/performanceRunners/CDArticleSimulation.scala,4\7\477524e30bb6344bf202781a16370eccb7623f28
+p
+@src/test/java/features/performanceFeatures/createArticle.feature,1\9\1984e0289698ab63ac295f86f07e45f4ff8fad8d
+I
+jenkinsconfig/JenkinsFile,6\4\6474aece0f2d215e507600092ac4807c05d0a544
